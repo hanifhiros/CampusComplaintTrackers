@@ -20,14 +20,16 @@ Kami membayangkan lingkungan kampus yang lebih terbuka dan responsif, di mana se
 - [TRANSPARENT ACCESS] - Semua laporan dapat diakses dan dipantau
 
 ⛓ DEPLOYED SMART CONTRACT DETAILS
-
 +-----------------------------------------------------------------+
-| CONTRACT ID: (CD5VACGXZ2TWT7ENLZNOHX2QNJTNNFQJHFZRKXARW67LISY3SFEGVXZD) |
-
-| 🔗 https://stellar.expert/explorer/testnet/tx/b076a063324ac6d75b57fed272430239024c238bf532222453bf44a466455265 |
-
-| 🔗 https://lab.stellar.org/r/testnet/contract/CD5VACGXZ2TWT7ENLZNOHX2QNJTNNFQJHFZRKXARW67LISY3SFEGVXZD |
+| CONTRACT ID:                                                    |
+| CD5VACGXZ2TWT7ENLZNOHX2QNJTNNFQJHFZRKXARW67LISY3SFEGVXZD         |
 +-----------------------------------------------------------------+
+
+🔗 Transaction Explorer
+https://stellar.expert/explorer/testnet/tx/b076a063324ac6d75b57fed272430239024c238bf532222453bf44a466455265
+
+🔗 Contract Lab
+https://lab.stellar.org/r/testnet/contract/CD5VACGXZ2TWT7ENLZNOHX2QNJTNNFQJHFZRKXARW67LISY3SFEGVXZD
 
 📸 REGISTRY SCREENSHOT
 Block Explorer View
